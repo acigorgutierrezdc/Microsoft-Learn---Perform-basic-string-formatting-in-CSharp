@@ -1,0 +1,16 @@
+General Data Protection Regulation (GDPR).
+
+Microsoft-Learn---
+Perform basic string formatting in C#
+
+Microsoft-Learn---Perform-basic-string-formatting-in-CSharp
+
+
+
+Learning objectives
+After you complete this module, you'll be able to:
+
+Create string data containing tabs, new lines, and other special characters
+Create string data containing Unicode characters
+Combine string data into a new string value via concatenation
+Combine string data into a new string value via interpolation
